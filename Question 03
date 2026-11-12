@@ -1,0 +1,12 @@
+3.Write a Java program to print "Welcome to Java Programming"?
+class Main
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Welcome to Java Programming");
+  }
+}
+
+/*
+Welcome to Java Programming
+*/
