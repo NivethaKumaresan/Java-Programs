@@ -1,0 +1,18 @@
+2.Write a Java program to print your name, age and city?
+class Main
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Your Name");
+    System.out.println("18");
+    System.out.println("Tirupati");
+  }
+}
+
+
+/*
+output:-
+Your Name
+18
+Tirupati
+*/
