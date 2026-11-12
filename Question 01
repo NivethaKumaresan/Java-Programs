@@ -1,0 +1,13 @@
+1. Write a Java program to print "your name"?
+class Main
+{
+  public static void main(String[] args)
+  {
+    System.out.println("Your Name");/* inside of this text "Your Name" u can give any name */
+  }
+}
+
+/* 
+output:-
+Your Name 
+*/
