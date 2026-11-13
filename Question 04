@@ -1,1 +1,21 @@
+/*4.Add two numbers using user input*/
+import java.util.Scanner;
+class Main{
+    public static void main(String[] args)
+    {
+        Scanner sc=new Scanner(System.in);
+        System.out.print("Enter your first number: ");
+        int num1=sc.nextInt();
+        System.out.print("Enter your second number: ");
+        int num2=sc.nextInt();
+        int sum=num1+num2;
+        System.out.println("Sum: "+sum);
+    }
+}
+
+/*output:-
+  Enter your first number: 5
+  Enter your second number: 5
+  Sum: 10
+*/
 
