@@ -8,6 +8,6 @@
 
 /*java program question:- Day 02*/
 
-1. Add Two Numbers Using User Input
-2. Multiple Two numbers using user input
-3. Sub two numbers using user input
+4. Add Two Numbers Using User Input
+5. Multiple Two numbers using user input
+6. Sub two numbers using user input
