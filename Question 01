@@ -1,4 +1,4 @@
-1. Write a Java program to print "your name"?
+/*1. Write a Java program to print "your name"?*/
 class Main
 {
   public static void main(String[] args)
