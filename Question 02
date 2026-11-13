@@ -1,4 +1,4 @@
-2.Write a Java program to print your name, age and city?
+/*2.Write a Java program to print your name, age and city?*/
 class Main
 {
   public static void main(String[] args)
